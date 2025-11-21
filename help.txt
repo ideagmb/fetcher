@@ -1,0 +1,4 @@
+https://github.com/ideagmb/Web-middle/blob/master/ping.json
+хуйня, а не посилання
+https://raw.githubusercontent.com/ideagmb/Web-middle/master/ping.json
+правильне посилання
