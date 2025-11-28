@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "6928e74ddd8c0fb62f822580",
+    "name": "Evans Morris",
+    "gender": "male",
+    "phone": "+380 (946) 497-3394",
+    "address": " Iola",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Odom Bender"
+      },
+      {
+        "id": 1,
+        "name": "Gracie Stein"
+      },
+      {
+        "id": 2,
+        "name": "Yang Rogers"
+      }
+    ]
+  },
+  {
+    "_id": "6928e74d0a989768d1ebd509",
+    "name": "Lesa Mathews",
+    "gender": "female",
+    "phone": "+380 (989) 441-2746",
+    "address": " Homeworth",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Harmon Nguyen"
+      },
+      {
+        "id": 1,
+        "name": "Lena Schmidt"
+      },
+      {
+        "id": 2,
+        "name": "Bridget Poole"
+      }
+    ]
+  },
+  {
+    "_id": "6928e74d1606b29497e33ace",
+    "name": "Nancy Little",
+    "gender": "female",
+    "phone": "+380 (823) 546-2322",
+    "address": " Sena",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Ola Frost"
+      },
+      {
+        "id": 1,
+        "name": "Newton Carlson"
+      },
+      {
+        "id": 2,
+        "name": "Jocelyn Mooney"
+      }
+    ]
+  },
+  {
+    "_id": "6928e74d6a5fa60543f91911",
+    "name": "Oneill Boyle",
+    "gender": "male",
+    "phone": "+380 (812) 472-2430",
+    "address": " Chemung",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Gertrude Mercer"
+      },
+      {
+        "id": 1,
+        "name": "Martin Blanchard"
+      },
+      {
+        "id": 2,
+        "name": "Christensen Mann"
+      }
+    ]
+  },
+  {
+    "_id": "6928e74d3804ee9b3dd80f09",
+    "name": "Doris Carver",
+    "gender": "female",
+    "phone": "+380 (823) 522-2554",
+    "address": " Deltaville",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Carey Coffey"
+      },
+      {
+        "id": 1,
+        "name": "Meagan Stephenson"
+      },
+      {
+        "id": 2,
+        "name": "Chapman Hamilton"
+      }
+    ]
+  }
+]
