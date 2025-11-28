@@ -19,6 +19,7 @@ function drawPerson(person) {
         <h2>${item.name}</h2>
         <p>Phone: ${item.phone}</p>
         <p>Gender: ${item.gender}</p>
+        <p>Address: ${item.address}</p>
         <p>Friends: ${item.friends.map(f => f.name).join(', ')}</p> 
     `;
         container.appendChild(personCard);
